@@ -1,4 +1,4 @@
-# İstanbul Uygulamsı
+# İstanbul
 
 ## Takım Üyeleri
 
